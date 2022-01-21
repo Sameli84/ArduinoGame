@@ -1,3 +1,5 @@
+# Arduino dodge red dots game
+
 Arduinolle ja LED-matriisille toteutettu lähestyvien esteiden väistelypeli.
 Toteutettu projektityöksi TAMK:n mikrokontrollerikurssille.
 
